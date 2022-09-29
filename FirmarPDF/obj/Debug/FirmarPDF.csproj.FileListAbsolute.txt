@@ -1,0 +1,11 @@
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\bin\Debug\FirmarPDF.exe
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\bin\Debug\FirmarPDF.pdb
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\bin\Debug\itextsharp.dll
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.csproj.AssemblyReference.cache
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.Form1.resources
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.Properties.Resources.resources
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.csproj.GenerateResource.cache
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.csproj.CoreCompileInputs.cache
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.csproj.CopyComplete
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.exe
+C:\Users\mrosales\Desktop\Nueva carpeta\FirmarPDF\obj\Debug\FirmarPDF.pdb
